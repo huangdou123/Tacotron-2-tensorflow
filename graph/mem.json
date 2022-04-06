@@ -1,0 +1,587 @@
+[
+  {
+    "netname": "train_Tacotron_32_11",
+    "peak_mem": "3.366368055343628",
+    "temp_mem": "1163.2418212890625",
+    "pers_mem": "110.766845703125",
+    "mem_alloc_num": "86051",
+    "temp_alloc_num": "5704",
+    "pers_alloc_num": "5016"
+  },
+  {
+    "netname": "train_Tacotron_32_12",
+    "peak_mem": "3.5039288997650146",
+    "temp_mem": "1161.078369140625",
+    "pers_mem": "111.8759765625",
+    "mem_alloc_num": "89392",
+    "temp_alloc_num": "5927",
+    "pers_alloc_num": "5196"
+  },
+  {
+    "netname": "train_Tacotron_32_13",
+    "peak_mem": "3.604600191116333",
+    "temp_mem": "1223.8516845703125",
+    "pers_mem": "112.640869140625",
+    "mem_alloc_num": "91833",
+    "temp_alloc_num": "6076",
+    "pers_alloc_num": "5328"
+  },
+  {
+    "netname": "train_Tacotron_32_14",
+    "peak_mem": "3.7955076694488525",
+    "temp_mem": "1487.444091796875",
+    "pers_mem": "114.72705078125",
+    "mem_alloc_num": "94560",
+    "temp_alloc_num": "6257",
+    "pers_alloc_num": "5506"
+  },
+  {
+    "netname": "train_Tacotron_32_15",
+    "peak_mem": "3.927431106567383",
+    "temp_mem": "1385.304443359375",
+    "pers_mem": "117.302734375",
+    "mem_alloc_num": "97628",
+    "temp_alloc_num": "6452",
+    "pers_alloc_num": "5730"
+  },
+  {
+    "netname": "train_Tacotron_32_16",
+    "peak_mem": "4.070600271224976",
+    "temp_mem": "1108.7464599609375",
+    "pers_mem": "116.689697265625",
+    "mem_alloc_num": "100116",
+    "temp_alloc_num": "6614",
+    "pers_alloc_num": "5806"
+  },
+  {
+    "netname": "train_Tacotron_32_17",
+    "peak_mem": "4.1477370262146",
+    "temp_mem": "1255.59423828125",
+    "pers_mem": "118.826171875",
+    "mem_alloc_num": "102428",
+    "temp_alloc_num": "6795",
+    "pers_alloc_num": "5984"
+  },
+  {
+    "netname": "train_Tacotron_32_18",
+    "peak_mem": "4.206191778182983",
+    "temp_mem": "3586.8170166015625",
+    "pers_mem": "119.15673828125",
+    "mem_alloc_num": "105089",
+    "temp_alloc_num": "6951",
+    "pers_alloc_num": "6096"
+  },
+  {
+    "netname": "train_Tacotron_32_19",
+    "peak_mem": "4.4616475105285645",
+    "temp_mem": "3536.559326171875",
+    "pers_mem": "122.6123046875",
+    "mem_alloc_num": "108066",
+    "temp_alloc_num": "7143",
+    "pers_alloc_num": "6344"
+  },
+  {
+    "netname": "train_Tacotron_32_20",
+    "peak_mem": "4.555069208145142",
+    "temp_mem": "3570.157958984375",
+    "pers_mem": "123.480712890625",
+    "mem_alloc_num": "110731",
+    "temp_alloc_num": "7322",
+    "pers_alloc_num": "6488"
+  },
+  {
+    "netname": "train_Tacotron_34_1",
+    "peak_mem": "1.3265016078948975",
+    "temp_mem": "735.822998046875",
+    "pers_mem": "87.302001953125",
+    "mem_alloc_num": "36762",
+    "temp_alloc_num": "2509",
+    "pers_alloc_num": "2138"
+  },
+  {
+    "netname": "train_Tacotron_34_2",
+    "peak_mem": "1.7862751483917236",
+    "temp_mem": "665.6395263671875",
+    "pers_mem": "92.957763671875",
+    "mem_alloc_num": "47447",
+    "temp_alloc_num": "3195",
+    "pers_alloc_num": "2764"
+  },
+  {
+    "netname": "train_Tacotron_34_3",
+    "peak_mem": "2.060234308242798",
+    "temp_mem": "876.7625732421875",
+    "pers_mem": "96.397705078125",
+    "mem_alloc_num": "53850",
+    "temp_alloc_num": "3609",
+    "pers_alloc_num": "3136"
+  },
+  {
+    "netname": "train_Tacotron_34_4",
+    "peak_mem": "2.3277714252471924",
+    "temp_mem": "945.7850341796875",
+    "pers_mem": "99.86279296875",
+    "mem_alloc_num": "59304",
+    "temp_alloc_num": "3950",
+    "pers_alloc_num": "3476"
+  },
+  {
+    "netname": "train_Tacotron_34_5",
+    "peak_mem": "2.5297858715057373",
+    "temp_mem": "833.569580078125",
+    "pers_mem": "101.62744140625",
+    "mem_alloc_num": "63982",
+    "temp_alloc_num": "4263",
+    "pers_alloc_num": "3728"
+  },
+  {
+    "netname": "train_Tacotron_34_6",
+    "peak_mem": "2.7316014766693115",
+    "temp_mem": "964.544677734375",
+    "pers_mem": "103.343505859375",
+    "mem_alloc_num": "68547",
+    "temp_alloc_num": "4569",
+    "pers_alloc_num": "3978"
+  },
+  {
+    "netname": "train_Tacotron_34_7",
+    "peak_mem": "2.9257805347442627",
+    "temp_mem": "941.1370849609375",
+    "pers_mem": "107.245361328125",
+    "mem_alloc_num": "72992",
+    "temp_alloc_num": "4838",
+    "pers_alloc_num": "4268"
+  },
+  {
+    "netname": "train_Tacotron_34_8",
+    "peak_mem": "3.0832302570343018",
+    "temp_mem": "938.98046875",
+    "pers_mem": "108.5654296875",
+    "mem_alloc_num": "76092",
+    "temp_alloc_num": "5041",
+    "pers_alloc_num": "4444"
+  },
+  {
+    "netname": "train_Tacotron_34_9",
+    "peak_mem": "3.2494404315948486",
+    "temp_mem": "1037.9224853515625",
+    "pers_mem": "110.449462890625",
+    "mem_alloc_num": "79392",
+    "temp_alloc_num": "5252",
+    "pers_alloc_num": "4640"
+  },
+  {
+    "netname": "train_Tacotron_34_10",
+    "peak_mem": "3.4012582302093506",
+    "temp_mem": "853.7188720703125",
+    "pers_mem": "111.6103515625",
+    "mem_alloc_num": "83307",
+    "temp_alloc_num": "5517",
+    "pers_alloc_num": "4846"
+  },
+  {
+    "netname": "train_Tacotron_34_11",
+    "peak_mem": "3.583616018295288",
+    "temp_mem": "1139.6204833984375",
+    "pers_mem": "113.47412109375",
+    "mem_alloc_num": "86484",
+    "temp_alloc_num": "5718",
+    "pers_alloc_num": "5040"
+  },
+  {
+    "netname": "train_Tacotron_34_12",
+    "peak_mem": "3.7595672607421875",
+    "temp_mem": "1293.709716796875",
+    "pers_mem": "114.1201171875",
+    "mem_alloc_num": "88930",
+    "temp_alloc_num": "5882",
+    "pers_alloc_num": "5172"
+  },
+  {
+    "netname": "train_Tacotron_34_13",
+    "peak_mem": "3.813777208328247",
+    "temp_mem": "1141.8887939453125",
+    "pers_mem": "115.133544921875",
+    "mem_alloc_num": "91291",
+    "temp_alloc_num": "6043",
+    "pers_alloc_num": "5294"
+  },
+  {
+    "netname": "train_Tacotron_34_14",
+    "peak_mem": "3.9278950691223145",
+    "temp_mem": "1195.7818603515625",
+    "pers_mem": "116.06103515625",
+    "mem_alloc_num": "93711",
+    "temp_alloc_num": "6201",
+    "pers_alloc_num": "5434"
+  },
+  {
+    "netname": "train_Tacotron_34_15",
+    "peak_mem": "4.162914276123047",
+    "temp_mem": "965.936279296875",
+    "pers_mem": "120.23193359375",
+    "mem_alloc_num": "97575",
+    "temp_alloc_num": "6423",
+    "pers_alloc_num": "5706"
+  },
+  {
+    "netname": "train_Tacotron_34_16",
+    "peak_mem": "4.23660683631897",
+    "temp_mem": "1088.0098876953125",
+    "pers_mem": "119.607666015625",
+    "mem_alloc_num": "99670",
+    "temp_alloc_num": "6586",
+    "pers_alloc_num": "5782"
+  },
+  {
+    "netname": "train_Tacotron_34_17",
+    "peak_mem": "4.336544752120972",
+    "temp_mem": "991.49462890625",
+    "pers_mem": "121.50341796875",
+    "mem_alloc_num": "101932",
+    "temp_alloc_num": "6719",
+    "pers_alloc_num": "5936"
+  },
+  {
+    "netname": "train_Tacotron_34_18",
+    "peak_mem": "4.48542594909668",
+    "temp_mem": "658.8785400390625",
+    "pers_mem": "122.057373046875",
+    "mem_alloc_num": "104634",
+    "temp_alloc_num": "6905",
+    "pers_alloc_num": "6072"
+  },
+  {
+    "netname": "train_Tacotron_34_19",
+    "peak_mem": "4.7255120277404785",
+    "temp_mem": "2338.70751953125",
+    "pers_mem": "125.806640625",
+    "mem_alloc_num": "108478",
+    "temp_alloc_num": "7127",
+    "pers_alloc_num": "6344"
+  },
+  {
+    "netname": "train_Tacotron_34_20",
+    "peak_mem": "4.828455924987793",
+    "temp_mem": "2308.607177734375",
+    "pers_mem": "126.55712890625",
+    "mem_alloc_num": "110715",
+    "temp_alloc_num": "7276",
+    "pers_alloc_num": "6464"
+  },
+  {
+    "netname": "train_Tacotron_34_21",
+    "peak_mem": "4.952315092086792",
+    "temp_mem": "2346.5411376953125",
+    "pers_mem": "128.180908203125",
+    "mem_alloc_num": "113468",
+    "temp_alloc_num": "7453",
+    "pers_alloc_num": "6626"
+  },
+  {
+    "netname": "train_Tacotron_34_22",
+    "peak_mem": "4.9418089389801025",
+    "temp_mem": "2235.427490234375",
+    "pers_mem": "126.927001953125",
+    "mem_alloc_num": "114133",
+    "temp_alloc_num": "7522",
+    "pers_alloc_num": "6620"
+  },
+  {
+    "netname": "train_Tacotron_34_23",
+    "peak_mem": "5.105617046356201",
+    "temp_mem": "2497.423095703125",
+    "pers_mem": "128.76708984375",
+    "mem_alloc_num": "116954",
+    "temp_alloc_num": "7696",
+    "pers_alloc_num": "6800"
+  },
+  {
+    "netname": "train_Tacotron_34_24",
+    "peak_mem": "5.197553396224976",
+    "temp_mem": "3727.3157958984375",
+    "pers_mem": "129.246826171875",
+    "mem_alloc_num": "118519",
+    "temp_alloc_num": "7801",
+    "pers_alloc_num": "6884"
+  },
+  {
+    "netname": "train_Tacotron_34_25",
+    "peak_mem": "5.291619777679443",
+    "temp_mem": "3638.93115234375",
+    "pers_mem": "130.188232421875",
+    "mem_alloc_num": "120626",
+    "temp_alloc_num": "7941",
+    "pers_alloc_num": "7002"
+  },
+  {
+    "netname": "train_Tacotron_34_26",
+    "peak_mem": "5.3821892738342285",
+    "temp_mem": "3702.538330078125",
+    "pers_mem": "131.243408203125",
+    "mem_alloc_num": "122610",
+    "temp_alloc_num": "8067",
+    "pers_alloc_num": "7118"
+  },
+  {
+    "netname": "train_Tacotron_34_27",
+    "peak_mem": "5.427934885025024",
+    "temp_mem": "3663.9146728515625",
+    "pers_mem": "131.45556640625",
+    "mem_alloc_num": "123624",
+    "temp_alloc_num": "8140",
+    "pers_alloc_num": "7168"
+  },
+  {
+    "netname": "train_Tacotron_34_28",
+    "peak_mem": "5.629873275756836",
+    "temp_mem": "897.6678466796875",
+    "pers_mem": "134.40966796875",
+    "mem_alloc_num": "126312",
+    "temp_alloc_num": "8296",
+    "pers_alloc_num": "7354"
+  },
+  {
+    "netname": "train_Tacotron_34_29",
+    "peak_mem": "5.7303385734558105",
+    "temp_mem": "1124.62158203125",
+    "pers_mem": "135.142822265625",
+    "mem_alloc_num": "128560",
+    "temp_alloc_num": "8452",
+    "pers_alloc_num": "7466"
+  },
+  {
+    "netname": "train_Tacotron_34_30",
+    "peak_mem": "5.850518226623535",
+    "temp_mem": "904.4566650390625",
+    "pers_mem": "136.01171875",
+    "mem_alloc_num": "130779",
+    "temp_alloc_num": "8611",
+    "pers_alloc_num": "7594"
+  },
+  {
+    "netname": "train_Tacotron_34_31",
+    "peak_mem": "6.12291693687439",
+    "temp_mem": "2655.0084228515625",
+    "pers_mem": "139.916748046875",
+    "mem_alloc_num": "134490",
+    "temp_alloc_num": "8772",
+    "pers_alloc_num": "7830"
+  },
+  {
+    "netname": "train_Tacotron_34_32",
+    "peak_mem": "6.077905654907227",
+    "temp_mem": "1630.590576171875",
+    "pers_mem": "138.493408203125",
+    "mem_alloc_num": "134289",
+    "temp_alloc_num": "8865",
+    "pers_alloc_num": "7844"
+  },
+  {
+    "netname": "train_Tacotron_34_33",
+    "peak_mem": "6.3351171016693115",
+    "temp_mem": "1804.9849853515625",
+    "pers_mem": "141.718017578125",
+    "mem_alloc_num": "138622",
+    "temp_alloc_num": "9046",
+    "pers_alloc_num": "8056"
+  },
+  {
+    "netname": "train_Tacotron_34_34",
+    "peak_mem": "6.5575621128082275",
+    "temp_mem": "1706.7081298828125",
+    "pers_mem": "144.425048828125",
+    "mem_alloc_num": "140647",
+    "temp_alloc_num": "9198",
+    "pers_alloc_num": "8232"
+  },
+  {
+    "netname": "train_Tacotron_34_35",
+    "peak_mem": "6.312254190444946",
+    "temp_mem": "1241.311767578125",
+    "pers_mem": "139.611572265625",
+    "mem_alloc_num": "140010",
+    "temp_alloc_num": "9215",
+    "pers_alloc_num": "8096"
+  },
+  {
+    "netname": "train_Tacotron_34_36",
+    "peak_mem": "6.6093854904174805",
+    "temp_mem": "972.4931640625",
+    "pers_mem": "144.19091796875",
+    "mem_alloc_num": "143396",
+    "temp_alloc_num": "9399",
+    "pers_alloc_num": "8352"
+  },
+  {
+    "netname": "train_Tacotron_34_37",
+    "peak_mem": "6.613113641738892",
+    "temp_mem": "1932.5711669921875",
+    "pers_mem": "143.877197265625",
+    "mem_alloc_num": "145040",
+    "temp_alloc_num": "9484",
+    "pers_alloc_num": "8386"
+  },
+  {
+    "netname": "train_Tacotron_34_38",
+    "peak_mem": "6.72016716003418",
+    "temp_mem": "2035.4945068359375",
+    "pers_mem": "144.68798828125",
+    "mem_alloc_num": "147278",
+    "temp_alloc_num": "9632",
+    "pers_alloc_num": "8506"
+  },
+  {
+    "netname": "train_Tacotron_34_39",
+    "peak_mem": "6.819500684738159",
+    "temp_mem": "1072.37890625",
+    "pers_mem": "145.141357421875",
+    "mem_alloc_num": "148610",
+    "temp_alloc_num": "9781",
+    "pers_alloc_num": "8604"
+  },
+  {
+    "netname": "train_Tacotron_34_40",
+    "peak_mem": "6.9211812019348145",
+    "temp_mem": "1037.3302001953125",
+    "pers_mem": "146.380126953125",
+    "mem_alloc_num": "150355",
+    "temp_alloc_num": "9878",
+    "pers_alloc_num": "8708"
+  },
+  {
+    "netname": "train_Tacotron_34_41",
+    "peak_mem": "7.336550712585449",
+    "temp_mem": "1069.5689697265625",
+    "pers_mem": "151.138916015625",
+    "mem_alloc_num": "154256",
+    "temp_alloc_num": "10098",
+    "pers_alloc_num": "9014"
+  },
+  {
+    "netname": "train_Tacotron_34_42",
+    "peak_mem": "7.161325216293335",
+    "temp_mem": "2471.330322265625",
+    "pers_mem": "148.175048828125",
+    "mem_alloc_num": "155071",
+    "temp_alloc_num": "10145",
+    "pers_alloc_num": "8942"
+  },
+  {
+    "netname": "train_Tacotron_34_43",
+    "peak_mem": "7.355006217956543",
+    "temp_mem": "4686.288330078125",
+    "pers_mem": "150.08154296875",
+    "mem_alloc_num": "157461",
+    "temp_alloc_num": "10288",
+    "pers_alloc_num": "9098"
+  },
+  {
+    "netname": "train_Tacotron_34_44",
+    "peak_mem": "7.36838960647583",
+    "temp_mem": "4774.3450927734375",
+    "pers_mem": "150.038330078125",
+    "mem_alloc_num": "158733",
+    "temp_alloc_num": "10381",
+    "pers_alloc_num": "9152"
+  },
+  {
+    "netname": "train_Tacotron_34_45",
+    "peak_mem": "7.699285984039307",
+    "temp_mem": "3879.5927734375",
+    "pers_mem": "152.12939453125",
+    "mem_alloc_num": "160720",
+    "temp_alloc_num": "10557",
+    "pers_alloc_num": "9320"
+  },
+  {
+    "netname": "train_Tacotron_34_46",
+    "peak_mem": "7.817334890365601",
+    "temp_mem": "3715.582275390625",
+    "pers_mem": "154.177978515625",
+    "mem_alloc_num": "162096",
+    "temp_alloc_num": "10675",
+    "pers_alloc_num": "9462"
+  },
+  {
+    "netname": "train_Tacotron_34_47",
+    "peak_mem": "7.737536191940308",
+    "temp_mem": "4525.9552001953125",
+    "pers_mem": "152.81396484375",
+    "mem_alloc_num": "163976",
+    "temp_alloc_num": "10739",
+    "pers_alloc_num": "9446"
+  },
+  {
+    "netname": "train_Tacotron_34_48",
+    "peak_mem": "7.951045036315918",
+    "temp_mem": "4474.3201904296875",
+    "pers_mem": "154.8525390625",
+    "mem_alloc_num": "164024",
+    "temp_alloc_num": "10768",
+    "pers_alloc_num": "9579"
+  },
+  {
+    "netname": "train_Tacotron_34_49",
+    "peak_mem": "8.08781123161316",
+    "temp_mem": "3529.1065063476562",
+    "pers_mem": "157.154541015625",
+    "mem_alloc_num": "164625",
+    "temp_alloc_num": "10749",
+    "pers_alloc_num": "9645"
+  },
+  {
+    "netname": "train_Tacotron_34_50",
+    "peak_mem": "8.30446195602417",
+    "temp_mem": "3590.50341796875",
+    "pers_mem": "158.03125",
+    "mem_alloc_num": "164651",
+    "temp_alloc_num": "10732",
+    "pers_alloc_num": "9711"
+  },
+  {
+    "netname": "train_Tacotron_25_46",
+    "peak_mem": "5.6172544956207275",
+    "temp_mem": "869.73681640625",
+    "pers_mem": "130.637451171875",
+    "mem_alloc_num": "162296",
+    "temp_alloc_num": "10667",
+    "pers_alloc_num": "9396"
+  },
+  {
+    "netname": "train_Tacotron_25_47",
+    "peak_mem": "5.693108558654785",
+    "temp_mem": "766.880126953125",
+    "pers_mem": "131.323974609375",
+    "mem_alloc_num": "163317",
+    "temp_alloc_num": "10760",
+    "pers_alloc_num": "9487"
+  },
+  {
+    "netname": "train_Tacotron_25_48",
+    "peak_mem": "5.860460996627808",
+    "temp_mem": "699.3935546875",
+    "pers_mem": "132.86962890625",
+    "mem_alloc_num": "163420",
+    "temp_alloc_num": "10766",
+    "pers_alloc_num": "9583"
+  },
+  {
+    "netname": "train_Tacotron_25_49",
+    "peak_mem": "5.956825256347656",
+    "temp_mem": "787.1138916015625",
+    "pers_mem": "134.253173828125",
+    "mem_alloc_num": "164623",
+    "temp_alloc_num": "10749",
+    "pers_alloc_num": "9644"
+  },
+  {
+    "netname": "train_Tacotron_25_50",
+    "peak_mem": "6.067118167877197",
+    "temp_mem": "693.3246459960938",
+    "pers_mem": "135.4912109375",
+    "mem_alloc_num": "165409",
+    "temp_alloc_num": "10731",
+    "pers_alloc_num": "9716"
+  }
+]
